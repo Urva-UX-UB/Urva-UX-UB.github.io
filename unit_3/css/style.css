@@ -1,9 +1,8 @@
 body {
-	background-image: url(../images/hero3.jpg); 
+	background-image: url(../images/jot.jpeg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
-
 }
 
 h1 {
@@ -11,8 +10,7 @@ h1 {
 	font-family: Roboto,sans-serif;
 	font-size: 56px;
 	font-weight: lighter;
-	color: #fff;
-
+	color: #425058;
 }
 
 #slogan {
@@ -26,14 +24,37 @@ h1 {
 p {
 	display: block;
 	margin: 300px;
-	margin-top: 30px;
+	margin-top: 40px;
 	margin-bottom: 20px;
 	text-align: center;
 	font-family: Roboto,sans-serif;
 	font-size: 18px;
 	font-weight: lighter;
 	line-height: 25px;
-	color: #fff;
+	color: #425058;
+}
+
+.info { 
+	text-align: left;
+   // margin-left: 80px;
+}
+
+.invite {
+	text-align: left;
+	display: block;
+	font-size: 24px;
+	margin-left: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	line-height: 40px;
+}
+
+
+section {
+	display: block;
+	margin-top: 180px;
+	margin-bottom: 0px;
+	background-color: #f6f6f6;
 }
 
 
