@@ -1,5 +1,5 @@
 body {
-	background-image: url(../images/jot.jpeg);
+	background-image: url(../images/jot.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
@@ -16,10 +16,18 @@ h1 {
 #slogan {
 	text-align: center;
 	font-family: Roboto,sans-serif;
-	font-size: 24px;
+	font-size: 28px;
 	font-weight: lighter;
 	color: #425058;
 }
+
+img {
+	margin: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
 
 p {
 	display: block;
